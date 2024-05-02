@@ -1,0 +1,4 @@
+requests
+python-memcached
+flask
+boto3
